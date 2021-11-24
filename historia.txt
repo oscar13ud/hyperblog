@@ -13,3 +13,5 @@ master 2
 Mañana nos enfocaremos en su vida laboral
 
 creado por el increible equipo de plazti
+
+incluye ejemplos en wind y mac
